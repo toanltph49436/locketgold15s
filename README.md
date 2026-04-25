@@ -4,4 +4,4 @@
 Script dùng cho Shadowrocket / Surge
 
 ## Link import
-https://raw.githubusercontent.com/toanltph49436/locketgold/main/modules/Locket_ohb.sgmodule
+https://raw.githubusercontent.com/toanltph49436/locketgold15s/main/modules/Locket_ohb.sgmodule
